@@ -1,3 +1,6 @@
+<div style="text-align:center"><img src="https://www.bleepstatic.com/content/hl-images/2021/05/10/GitHub-headpic.jpg" height="400" width="1100"></div>
+
+
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
 <h3 align="center">A passionate Fresher for Full Stack Web development</h3>
 
